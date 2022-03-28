@@ -49,7 +49,7 @@
       </li>
       <li>
         <a href="https://news.vuejs.org" target="_blank" rel="noopener"
-          >News 999
+          >News 999  8888
         </a>
       </li>
     </ul>
